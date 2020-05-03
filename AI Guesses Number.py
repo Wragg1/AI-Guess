@@ -1,5 +1,5 @@
 print("Enter a number for the Computer to guess ")
-number = input() #input() prompts for input
+number = input()
 number = int(number)
 import random
 aiguess = random.randint(1,100)
